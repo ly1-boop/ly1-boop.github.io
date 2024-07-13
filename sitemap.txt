@@ -1,3 +1,4 @@
+http://example.com/2024/07/13/about/
 http://example.com/2024/05/23/first/
 http://example.com/2024/05/23/chenge-first-blog/
 http://example.com/
